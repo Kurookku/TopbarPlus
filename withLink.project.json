@@ -1,6 +1,6 @@
 {
-    "name": "Icon",
-    "tree": {
-      "$path": "src"
-    }
+  "name": "topbarplus",
+  "tree": {
+    "$path": "src"
   }
+}

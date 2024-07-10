@@ -1,7 +1,7 @@
 {
-    "name": "Icon",
-    "globIgnorePaths": ["**/PackageLink.model.json"],
-    "tree": {
-      "$path": "src"
-    }
+  "name": "topbarplus",
+  "globIgnorePaths": ["**/PackageLink.model.json"],
+  "tree": {
+    "$path": "src"
   }
+}
